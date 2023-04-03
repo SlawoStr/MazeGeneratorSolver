@@ -2,8 +2,8 @@
 
 Maze generator recursive implementation:
 
-![Animation](https://github.com/SlawekSt/MazeGeneratorSolver/blob/main/Generator.gif)
+![Animation](https://github.com/SlawoStr/MazeGeneratorSolver/blob/master/Generator.gif)
 
 Pathfinder - A* Algorithm
 
-![Animation](https://github.com/SlawekSt/MazeGeneratorSolver/blob/main/Solver.gif)
+![Animation](https://github.com/SlawoStr/MazeGeneratorSolver/blob/master/Solver.gif)
